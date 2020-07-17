@@ -1,2 +1,4 @@
 # CV
-Prueba de repo
+## Datos personales
+Apellido y nombre: Bonifacio, Alejo Fabian
+DNI: 32680242
